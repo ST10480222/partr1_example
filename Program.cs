@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace rothe
 {
     internal class Program
-    {
+    {//start of name spacce
         static void Main(string[] args)
         {
         }
